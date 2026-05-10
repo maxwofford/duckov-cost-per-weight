@@ -1,0 +1,10 @@
+"workshopitem"
+{
+	"appid"		"3167020"
+	"contentfolder"		"dist"
+	"previewfile"		"dist/preview.png"
+	"visibility"		"0"
+	"title"		"Cost Per Weight"
+	"description"		"Shows $/kg in the item tooltip so you can tell what's worth carrying. Color-coded by value tier."
+	"publishedfileid"		"3723669794"
+}
