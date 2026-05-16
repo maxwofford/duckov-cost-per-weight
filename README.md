@@ -1,5 +1,7 @@
 # cost per weight
 
+[![](https://img.shields.io/steam/downloads/3723669794?style=for-the-badge&color=00adb5)](https://steamcommunity.com/sharedfiles/filedetails/?id=3723669794)
+
 shows $/kg in the item tooltip so you can tell at a glance whether something's worth carrying. color-coded to match the game's value tiers (white through red).
 
 ![preview](CostPerWeight/preview.png)
